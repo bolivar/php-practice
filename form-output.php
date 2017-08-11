@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP</title>
+    <title>PHP Practice</title>
 </head>
 <body>
 <?php
